@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Samith Shivakumar
 
 🎓 3rd Year AIML Student | 🚀 Building Cool AI Projects | 💻 Python Enthusiast
 
