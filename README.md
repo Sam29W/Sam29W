@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Sam
+# Hi there! 👋 I'm Samith Shivakumar
 
 ### 🎓 3rd Year AIML Student | 🚀 Building AI/ML Projects | 💻 Python Developer
 
@@ -72,51 +72,4 @@ Transit demand prediction system for Bangalore Metropolitan Transport
 
 ## 📊 Coding Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sam29W&theme=react-dark&hide_border=true)
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![Trophy](https://github-profile-trophy.vercel.app/?username=Sam29W&theme=radical&no-frame=true&row=1&column=7)
-
-</div>
-
----
-
-## 🎯 What I'm Currently Working On
-
-- 🔭 Building Computer Vision projects with YOLO
-- 🌱 Learning advanced ML algorithms and neural networks
-- 💡 Exploring real-world AI applications
-- 📚 Solving competitive programming problems on LeetCode
-- 🚀 Contributing to open-source ML projects
-
----
-
-## 📈 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Sam29W?theme=dark&font=Ubuntu&ext=activity)
-
----
-
-## 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-## 📫 Let's Connect!
-
-[![GitHub](https://img.shields.io/badge/-Follow%20on%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Sam29W)
-[![Email](https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
----
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=Sam29W&color=blueviolet&style=for-the-badge)
-
-**Thanks for visiting! ⭐ Star my repos if you find them useful!**
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sam29W&theme=react-dark&hide_
