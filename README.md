@@ -1,51 +1,122 @@
-# Hi there! 👋 I'm Samith Shivakumar
+# Hi there! 👋 I'm Sam
 
-🎓 3rd Year AIML Student | 🚀 Building Cool AI Projects | 💻 Python Enthusiast
+### 🎓 3rd Year AIML Student | 🚀 Building AI/ML Projects | 💻 Python Developer
+
+Currently exploring Computer Vision, Machine Learning, and building practical AI applications!
 
 ---
 
 ## 🔥 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?Sam29W=Sam29W&show_icons=true&theme=radical)
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sam29W&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sam29W&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sam29W&layout=compact&theme=radical&hide_border=true)
+
+</div>
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Featured Projects
 
-- 🎯 **YOLO Object Detection** - Real-time object detection with statistics dashboard
-- 📧 **Spam Email Detector** - ML-powered spam classifier with 98% accuracy
-- 🚌 **BMTC Bus Demand Forecasting** - Transit demand prediction system
+### 🎯 [YOLO Object Detection System](https://github.com/Sam29W)
+Real-time object detection with advanced statistics dashboard
+- Smart object counting with category breakdown
+- Detection statistics with visual charts
+- Confidence-based filtering
+- **Tech:** Python, YOLOv11, OpenCV, Ultralytics
+
+### 📧 [Spam Email Detector](https://github.com/Sam29W)
+ML-powered spam classifier with 98% accuracy
+- Trained on real-world dataset (5,572 emails)
+- Natural Language Processing with scikit-learn
+- Interactive spam checking
+- **Tech:** Python, scikit-learn, Pandas, NLP
+
+### 🚌 [BMTC Bus Demand Forecasting](https://github.com/Sam29W)
+Transit demand prediction system for Bangalore Metropolitan Transport
+- Real-time demand forecasting
+- Dynamic bus dispatch optimization
+- Data visualization and analytics
+- **Tech:** Python, Machine Learning, Flask
 
 ---
 
 ## 💻 Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
 ---
 
-## 📊 LeetCode Stats
+## 📊 Coding Activity
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Samith_292?theme=dark&font=Ubuntu)
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/samith-shivakumar-98901430a)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:samithshivakumar1@gmail.com)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sam29W&theme=react-dark&hide_border=true)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sam29W&color=blueviolet)
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+![Trophy](https://github-profile-trophy.vercel.app/?username=Sam29W&theme=radical&no-frame=true&row=1&column=7)
+
+</div>
+
+---
+
+## 🎯 What I'm Currently Working On
+
+- 🔭 Building Computer Vision projects with YOLO
+- 🌱 Learning advanced ML algorithms and neural networks
+- 💡 Exploring real-world AI applications
+- 📚 Solving competitive programming problems on LeetCode
+- 🚀 Contributing to open-source ML projects
+
+---
+
+## 📈 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Sam29W?theme=dark&font=Ubuntu&ext=activity)
+
+---
+
+## 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+## 📫 Let's Connect!
+
+[![GitHub](https://img.shields.io/badge/-Follow%20on%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Sam29W)
+[![Email](https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+---
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=Sam29W&color=blueviolet&style=for-the-badge)
+
+**Thanks for visiting! ⭐ Star my repos if you find them useful!**
