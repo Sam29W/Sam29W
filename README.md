@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Sam
+# Hi there! 👋 I'm Samith Shivakumar
 
 <div align="center">
   
