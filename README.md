@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Samith Shivakumar
+# Hi there! 👋 I'm Sam
 
 <div align="center">
   
@@ -12,15 +12,39 @@ Currently exploring Computer Vision, Machine Learning, and building practical AI
 
 ---
 
-## 🔥 GitHub Stats
+## 🔥 GitHub Stats & Streak
 
 <div align="center">
-  
+
+### 📊 Overall Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sam29W&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sam29W&theme=radical&hide_border=true)
+### 🔥 Contribution Streak (NEW!)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sam29W&theme=radical&hide_border=true&ring=FB8C00&fire=FB8C00&currStreakLabel=FB8C00)
 
+### 🗓️ Contribution Calendar Heatmap (NEW!)
+![Calendar Heatmap](https://ghchart.rshah.org/fb8c00/Sam29W)
+
+### 📈 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sam29W&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🌟 My GitHub 3D Skyline (UNIQUE FEATURE!) 
+
+<div align="center">
+
+### 🏙️ Your Contributions as a 3D City!
+
+![3D Skyline](https://skyline.github.com/Sam29W/2025)
+
+<a href="https://skyline.github.com/Sam29W/2025">
+  <img src="https://img.shields.io/badge/View%20My%203D%20Skyline-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+*Click above to view and download your GitHub contributions as a 3D city skyline you can rotate and explore!*
 
 </div>
 
@@ -155,6 +179,16 @@ Currently working on exciting new ideas!
 <div align="center">
   
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Sam29W&theme=radical&no-frame=true&row=2&column=6)
+
+</div>
+
+---
+
+## 🐍 Watch My Contributions Get Eaten! (NEW!)
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Sam29W/Sam29W/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
