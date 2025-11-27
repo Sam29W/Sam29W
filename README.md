@@ -12,79 +12,44 @@ Currently exploring Computer Vision, Machine Learning, and building practical AI
 
 ---
 
-## 🔥 GitHub Stats & Streak
+## 🔥 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sam29W&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam29W&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
-
-### 🔥 Contribution Streak (FIXED!)
-<img src="https://streak-stats.demolab.com/?user=Sam29W&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=FB8C00&fire=FB8C00&currStreakLabel=FB8C00" alt="GitHub Streak" />
-
-### 🗓️ Contribution Heatmap
-<img src="https://ghchart.rshah.org/fb8c00/Sam29W" alt="Contribution Graph" />
+<a href="https://github.com/Sam29W">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sam29W&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam29W&layout=compact&langs_count=8&theme=radical"/>
+</a>
 
 </div>
 
 ---
 
-## ⚡ Quick Stats (NEW!)
+## 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Focus-Computer%20Vision-00D9FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Projects-15+-FB8C00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Learning-Deep%20Learning-F75C7E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Status-Available%20for%20Internship-success?style=for-the-badge" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sam29W&theme=radical&hide_border=false" alt="Sam29W's Streak" />
 
 </div>
 
 ---
 
-## 🎮 GitHub Achievements & Stats
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-### 🏆 Trophy Cabinet
-
-![Achievements](https://github-profile-trophy.vercel.app/?username=Sam29W&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
-
-### 📊 Detailed Contribution Stats
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sam29W&theme=radical" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sam29W&theme=radical" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sam29W&theme=radical" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sam29W&theme=radical" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sam29W&theme=radical&utcOffset=5.5" />
+<img src="https://github-profile-trophy.vercel.app/?username=Sam29W&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="Sam29W's Trophies" />
 
 </div>
 
 ---
 
-## 📈 Contribution Graph (NEW!)
+## 📊 GitHub Activity Graph
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sam29W&custom_title=Sam's%20Contribution%20Graph&theme=react-dark&hide_border=true&area=true&line=FB8C00&point=F75C7E)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🐍 Watch My Contributions Get Eaten!
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sam29W/Sam29W/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sam29W/Sam29W/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sam29W/Sam29W/output/github-contribution-grid-snake.svg">
-</picture>
-
-*Watch the snake eat my contributions!*
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sam29W&bg_color=0d1117&color=fb8c00&line=f75c7e&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
@@ -97,21 +62,22 @@ Currently exploring Computer Vision, Machine Learning, and building practical AI
 <td width="50%">
 
 ### 🎯 YOLO Object Detection System
-Real-time object detection with advanced statistics dashboard
+Real-time object detection with 6 detection modes
 
-**Features:**
-- ✅ Smart object counting with category breakdown
-- ✅ Detection statistics with visual charts
-- ✅ Confidence-based filtering
-- ✅ Multi-image batch processing
+**Latest Features:**
+- ✅ Basic image detection
+- ✅ Smart object counter
+- ✅ Statistics dashboard
+- ✅ Batch processing
+- ✅ Confidence control
 - ✅ **NEW:** Image info display with metadata
 
 **Tech Stack:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?style=flat-square)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-[🔗 View Project](https://github.com/Sam29W/PythonProject) | ⭐ Star it!
+[🔗 View Project](https://github.com/Sam29W/PythonProject)
 
 </td>
 <td width="50%">
@@ -126,11 +92,11 @@ ML-powered spam classifier with 98% accuracy
 - ✅ Detailed performance metrics
 
 **Tech Stack:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-[🔗 View Project](https://github.com/Sam29W) | ⭐ Star it!
+[🔗 View Project](https://github.com/Sam29W)
 
 </td>
 </tr>
@@ -138,34 +104,31 @@ ML-powered spam classifier with 98% accuracy
 <td width="50%">
 
 ### 🚌 BMTC Bus Demand Forecasting
-Transit demand prediction for Bangalore Metro
+Transit demand prediction for Bangalore
 
 **Features:**
 - ✅ Real-time demand forecasting
 - ✅ Dynamic bus dispatch optimization
 - ✅ Data visualization & analytics
-- ✅ Route optimization algorithms
+- ✅ Route optimization
 
 **Tech Stack:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![ML](https://img.shields.io/badge/-ML-FF6F00?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-[🔗 View Project](https://github.com/Sam29W) | ⭐ Star it!
+[🔗 View Project](https://github.com/Sam29W)
 
 </td>
 <td width="50%">
 
-### 💡 More Projects Coming Soon...
-Currently working on exciting new ideas!
+### 💡 More Projects Coming Soon
+Working on exciting new ideas!
 
 **Planned:**
 - 🎵 Music Genre Classifier
 - 🏠 House Price Predictor
 - 🎬 Movie Recommendation System
 - 📊 Stock Market Analyzer
-
-**Stay tuned!** 👀
 
 </td>
 </tr>
@@ -177,29 +140,24 @@ Currently working on exciting new ideas!
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-### AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?style=for-the-badge&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
 </div>
 
@@ -207,11 +165,11 @@ Currently working on exciting new ideas!
 
 ## 🎯 What I'm Currently Working On
 
-- 🔭 **Building:** Computer Vision projects with YOLO & OpenCV
-- 🌱 **Learning:** Advanced ML algorithms, Neural Networks & Deep Learning
-- 💡 **Exploring:** Real-world AI applications & deployment strategies
-- 📚 **Practicing:** LeetCode problems & competitive programming
-- 🚀 **Contributing:** Open-source ML projects & documentation
+- 🔭 Building Computer Vision projects with YOLO & OpenCV
+- 🌱 Learning Advanced ML algorithms & Deep Learning
+- 💡 Exploring real-world AI applications
+- 📚 Solving LeetCode problems daily
+- 🚀 Contributing to open-source projects
 
 ---
 
@@ -219,30 +177,19 @@ Currently working on exciting new ideas!
 
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Samith_29?theme=dark&font=Ubuntu&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Samith_29?theme=dark&font=Ubuntu)
 
 </div>
 
 ---
 
-## 💡 Random Dev Quote
+## 📫 Connect With Me
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samith-shivakumar-98901430a)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Samith_29)
-[![GitHub](https://img.shields.io/badge/-Follow%20on%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Sam29W)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samith-shivakumar-98901430a)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Samith_29)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sam29W)
 
 </div>
 
@@ -250,22 +197,10 @@ Currently working on exciting new ideas!
 
 <div align="center">
 
-### 💼 Open to Opportunities
+### 💼 Open to Internships & Collaborations in AI/ML
 
-I'm actively looking for internships and collaborations in AI/ML!
-
-![Profile Views](https://komarev.com/ghpvc/?username=Sam29W&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Sam29W&color=blueviolet&style=flat-square)
 
 **Thanks for visiting! ⭐ Star my repos if you find them useful!**
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
-
----
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </div>
