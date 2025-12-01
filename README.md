@@ -23,8 +23,7 @@ Currently exploring Computer Vision, Machine Learning, and building practical AI
 </a>
 
 ### 🔥 Contribution Streak
-<img src="https://streak-stats.demolab.com/?user=Sam29W&theme=radical&hide_border=true&ring=FB8C00&fire=FB8C00&currStreakLabel=FB8C00" />
-user=Sam29W&theme=radical&hide_border=true&ring=FB8C00&fire=FB8C00&currStreakLabel=FB8C00" />
+<img alt="GitHub Streak" src="https://streak.dev?user=Sam29W&theme=radical" width="100%" />
 
 ### 🗓️ Yearly Contribution Heatmap
 <img src="https://ghchart.rshah.org/fb8c00/Sam29W" alt="Contribution Heatmap" width="90%" />
