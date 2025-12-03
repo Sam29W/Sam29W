@@ -29,7 +29,7 @@
 
 # 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamithShivakumar&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sam29W&show_icons=true&theme=radical" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamithShivakumar&theme=radical" height="170"/>
 </p>
 
