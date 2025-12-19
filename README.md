@@ -5,7 +5,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/Sam29W?style=social)](https://github.com/Sam29W)
 [![GitHub stars](https://img.shields.io/github/stars/Sam29W?style=social)](https://github.com/Sam29W)
 
-**AI/ML Developer | Computer Vision Enthusiast | Full-Stack Builder**
+**AI/ML Developer | Computer Vision Enthusiast | ML Model Builder**
 
 🎓 BTech in AI/ML @ Jain University | 🌍 Based in Bengaluru, India
 
