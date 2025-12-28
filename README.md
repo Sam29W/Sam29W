@@ -7,7 +7,7 @@
 
 **AI/ML Developer | Computer Vision Enthusiast | ML Model Builder**
 
-🎓 BTech in AI/ML @ Jain University | 🌍 Based in Bengaluru, India ....
+🎓 BTech in AI/ML @ Jain University | 🌍 Based in Bengaluru, India .....
 
 </div>
 
