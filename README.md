@@ -20,7 +20,7 @@
 - 🧠 Passionate about **Object Detection**, **Deep Learning**, and **Real-time AI**
 - 🎯 Daily LeetCode grinder improving **DSA** skills
 - 🌱 Currently exploring: Advanced SQL, DevOps, Making ML Models and understanding machines as a whole
-- ⚡ Fun fact: I maintain a daily GitHub contribution streak!
+- ⚡ Fun fact: I maintain a daily GitHub contribution streak!/
 
 ---
 
