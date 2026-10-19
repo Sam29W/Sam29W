@@ -1,115 +1,59 @@
-# 👋 Hey, I'm Samith Shivakumar!
+# Hi, I’m Sam 👋
 
-<div align="center">
-  
-[![GitHub followers](https://img.shields.io/github/followers/Sam29W?style=social)](https://github.com/Sam29W)
-[![GitHub stars](https://img.shields.io/github/stars/Sam29W?style=social)](https://github.com/Sam29W)
+I build and optimize ML models, inference pipelines, and dashboards. I care about performance, clear metrics, and polished UX.
 
-**AI/ML Developer | Computer Vision Enthusiast | ML Model Builder**
-
-🎓 BTech in AI/ML @ Jain University | 🌍 Based in Bengaluru, India .....
-
-</div>
+[![Followers](https://img.shields.io/github/followers/Sam29W?label=Follow&style=social)](https://github.com/Sam29W)
+[![Profile Views](https://komarev.com/ghpvc/?username=Sam29W&color=brightgreen)](https://github.com/Sam29W)
 
 ---
 
-## 🚀 About Me
+## 📊 Key metrics (live)
 
-- 🤖 Building AI-powered computer vision applications with **YOLO** and **PyTorch**
-- 💻 Full-stack developer specializing in **Python**, **Flask**, and **Gradio**
-- 🧠 Passionate about **Object Detection**, **Deep Learning**, and **Real-time AI**
-- 🎯 Daily LeetCode grinder improving **DSA** skills
-- 🌱 Currently exploring: Advanced SQL, DevOps, Making ML Models and understanding machines as a whole
-- ⚡ Fun fact: I maintain a daily GitHub contribution streak!/
+- GitHub stats:
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sam29W&show_icons=true&theme=radical&count_private=true)
 
----
+- Top languages:
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sam29W&layout=compact&theme=radical)
 
-## 🛠️ Tech Stack
+- Contribution activity:
+  ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sam29W&theme=react-dark)
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### AI/ML & Computer Vision
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Ultralytics](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Frameworks & Tools
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF6F00?style=for-the-badge&logo=gradio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Platforms
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+- Streak:
+  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sam29W&theme=dark)
 
 ---
 
-## 🔥 Featured Projects
+## 🔍 Live dashboard highlights
 
-### 🎯 [YOLO Object Detection Pro](https://github.com/Sam29W/PythonProject)
-**Multi-model AI detection system with real-time alerts**
-- 5 YOLO11 models (n/s/m/l/x) with live model comparison
-- Smart alerts with custom triggers & sound notifications
-- Batch processing, video analysis, and webcam detection
-- Custom colored bounding boxes & detection history
-- Deployed on [HuggingFace Spaces](https://huggingface.co/spaces/Samith29/yolo-object-detection)
+I’ll keep the profile focused and uncluttered while exposing the most useful, live metrics:
+- p50 / p95 / p99 inference latency (if available)
+- Requests / second (throughput)
+- Success rate / error rate
+- GPU utilization & memory (where applicable)
 
-**Tech:** Python • YOLO11 • Gradio • OpenCV • PyTorch
+These will be shown using badge images & short descriptions (public, no private keys required).
 
 ---
 
-## 📊 GitHub Stats
+## 🔭 Current focus
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sam29W&show_icons=true&theme=radical&hide_border=true&count_private=true)
+- Improving model inference dashboards & metrics
+- Benchmarking YOLO models and deployment patterns
+- Building robust CI for ML pipelines
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sam29W&layout=compact&theme=radical&hide_border=true)
+## ⭐ Featured projects
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sam29W&theme=radical&hide_border=true)
+- [YOLO-Models](https://github.com/Sam29W/YOLO-Models) — model experiments and benchmarking
+- (Add any other repo links you want pinned here)
 
-</div>
+## 📫 Contact
 
----
-
-## 🎯 Current Focus
-
-- 🔭 Working on: Advanced YOLO models and real-time computer vision systems
-- 🌱 Learning: C++, DevOps practices, and mobile app development
-- 🤝 Open to collaborate on: AI/ML projects, open-source contributions
-- 💬 Ask me about: Python, YOLO, Object Detection, Flask, Gradio
+- GitHub: @Sam29W
 
 ---
 
-## 📫 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Sam29W-181717?style=for-the-badge&logo=github)](https://github.com/Sam29W)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-Samith29-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Samith29)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
-
----
-
-<div align="center">
-  
-### 💭 Quote of the Day
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔔 Thanks for visiting! Don't forget to ⭐ my repos if you find them useful!
-
-![Visitor Count](https://profile-counter.glitch.me/Sam29W/count.svg)
-
-</div>
+If you want extra metrics or badges, I can add:
+- WakaTime coding time
+- GitHub trophies
+- Repo-specific CI/build status badges
+- Custom "recent errors" or "top contributors" cards (public info only)
