@@ -1,115 +1,100 @@
-# 👋 Hey, I'm Samith Shivakumar!
+# Hi, I'm Samith Shivakumar 👋
 
-<div align="center">
-  
-[![GitHub followers](https://img.shields.io/github/followers/Sam29W?style=social)](https://github.com/Sam29W)
-[![GitHub stars](https://img.shields.io/github/stars/Sam29W?style=social)](https://github.com/Sam29W)
+### AI/ML Developer | Computer Vision | Python
 
-**AI/ML Developer | Computer Vision Enthusiast | ML Model Builder**
+I'm a B.Tech Artificial Intelligence & Machine Learning student at Jain (Deemed-to-be) University, Bengaluru, interested in building practical AI systems and software applications.
 
-🎓 BTech in AI/ML @ Jain University | 🌍 Based in Bengaluru, India .....
+I enjoy working across machine learning, computer vision, backend development and robotics — from experimenting with models to building applications around them.
 
-</div>
-
----
-
-## 🚀 About Me
-
-- 🤖 Building AI-powered computer vision applications with **YOLO** and **PyTorch**
-- 💻 Full-stack developer specializing in **Python**, **Flask**, and **Gradio**
-- 🧠 Passionate about **Object Detection**, **Deep Learning**, and **Real-time AI**
-- 🎯 Daily LeetCode grinder improving **DSA** skills
-- 🌱 Currently exploring: Advanced SQL, DevOps, Making ML Models and understanding machines as a whole
-- ⚡ Fun fact: I maintain a daily GitHub contribution streak!/
+- 🔭 **Currently building:** AI-powered applications and software projects
+- 🧠 **Areas of interest:** Machine Learning, Deep Learning, Computer Vision and Robotics
+- 🛠️ **Development focus:** Python, model integration, APIs and full-stack applications
+- 🌱 **Currently improving:** Data structures, software engineering practices and deployment workflows
+- 🤝 **Open to:** AI/ML internships, developer opportunities and meaningful open-source collaboration
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Technical Skills
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Languages**
+- Python, JavaScript, HTML, CSS
 
-### AI/ML & Computer Vision
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Ultralytics](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+**AI / Machine Learning**
+- PyTorch, TensorFlow, scikit-learn, XGBoost
+- Computer Vision, YOLO, OpenCV
+- Retrieval-Augmented Generation (RAG) and AI application development
 
-### Frameworks & Tools
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF6F00?style=for-the-badge&logo=gradio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**Backend & Data**
+- Flask, FastAPI, MongoDB
+- FAISS, ChromaDB, Neo4j
 
-### Platforms
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+**Tools & Platforms**
+- Git, GitHub, Linux, VS Code
+- Gradio, Streamlit
+- ROS 2, Webots and hardware prototyping
+
+*Technologies listed reflect my working and learning areas; proficiency varies by tool.*
 
 ---
 
-## 🔥 Featured Projects
+## 🚀 Featured Projects
 
-### 🎯 [YOLO Object Detection Pro](https://github.com/Sam29W/PythonProject)
-**Multi-model AI detection system with real-time alerts**
-- 5 YOLO11 models (n/s/m/l/x) with live model comparison
-- Smart alerts with custom triggers & sound notifications
-- Batch processing, video analysis, and webcam detection
-- Custom colored bounding boxes & detection history
-- Deployed on [HuggingFace Spaces](https://huggingface.co/spaces/Samith29/yolo-object-detection)
+### 🎯 YOLO Object Detection Pro
+A computer-vision application focused on object detection, model comparison and video analysis.
 
-**Tech:** Python • YOLO11 • Gradio • OpenCV • PyTorch
+- Supports multiple YOLO model variants.
+- Includes webcam and video detection workflows.
+- Provides configurable detection alerts and detection history.
+
+**Tech:** Python, YOLO, OpenCV, PyTorch, Gradio
+
+[View Repository](https://github.com/Sam29W/YOLO-Models)
+
+### 🛒 Smart Shopping Cart
+A practical software project exploring technology-assisted shopping workflows.
+
+- Explore the implementation, system workflow and supported features in the repository.
+- Planned documentation improvements include setup instructions, screenshots and architecture details.
+
+**Tech:** Python
+
+[View Repository](https://github.com/Sam29W/smartcart)
+
+### 🤖 Humanoid Robotics
+An exploration of humanoid robotics and the software systems that can support intelligent robotic behaviour.
+
+- Focused on robotics-related development and experimentation.
+- Project scope and implementation details are documented in the repository.
+
+[View Repository](https://github.com/Sam29W/Humanoid)
+
+### 🧠 Sally5 — Checkout Platform
+A checkout platform project exploring the software infrastructure used by direct-to-consumer merchants.
+
+- Designed around checkout flows, OTP authentication, address management and payment orchestration.
+- Envisions COD-risk scoring, merchant dashboards and e-commerce integrations.
+
+**Planned stack:** NestJS, SvelteKit, PostgreSQL, Redis and Redpanda.
+
+[View Repository](https://github.com/Sam29W/Sally5)
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 What I'm Working Toward
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sam29W&show_icons=true&theme=radical&hide_border=true&count_private=true)
+I'm focused on becoming a stronger AI/ML engineer by building end-to-end projects, improving my software engineering fundamentals and learning how to develop, test and deploy reliable applications.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sam29W&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sam29W&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-- 🔭 Working on: Advanced YOLO models and real-time computer vision systems
-- 🌱 Learning: C++, DevOps practices, and mobile app development
-- 🤝 Open to collaborate on: AI/ML projects, open-source contributions
-- 💬 Ask me about: Python, YOLO, Object Detection, Flask, Gradio
+I value practical implementation, clear documentation, reproducible experiments and continuous learning.
 
 ---
 
 ## 📫 Connect With Me
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Sam29W-181717?style=for-the-badge&logo=github)](https://github.com/Sam29W)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-Samith29-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Samith29)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
+- **LinkedIn:** [Samith Shivakumar](https://www.linkedin.com/in/samith-shivakumar-98901430a)
+- **Portfolio:** [View My Portfolio](https://sam29w.github.io/My-Portfolio/)
+- **Email:** [samithshivakumar1@gmail.com](mailto:samithshivakumar1@gmail.com)
+- **GitHub:** [@Sam29W](https://github.com/Sam29W)
 
 ---
 
-<div align="center">
-  
-### 💭 Quote of the Day
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔔 Thanks for visiting! Don't forget to ⭐ my repos if you find them useful!
-
-![Visitor Count](https://profile-counter.glitch.me/Sam29W/count.svg)
-
-</div>
+*Always learning. Always building.*
