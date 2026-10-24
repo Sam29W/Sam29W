@@ -6,15 +6,15 @@
 
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:08090B,45:17140D,100:9A7B3F&height=220&section=header&text=SAMITH%20SHIVAKUMAR&fontSize=42&fontColor=F2D99A&fontAlignY=38&desc=AI%2FML%20DEVELOPER%20%7C%20COMPUTER%20VISION%20%7C%20SOFTWARE%20ENGINEERING&descSize=13&descAlignY=59&animation=fadeIn" alt="Samith Shivakumar — AI/ML Developer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:08090B,45:17140D,100:9A7B3F&height=220&section=header&text=SAMITH%20SHIVAKUMAR&fontSize=42&fontColor=F2D99A&fontAlign=middle&fontFamily=Georgia" alt="Samith Shivakumar header banner" />
 
   <br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=17&duration=3200&pause=1000&color=C9A96E&center=true&vCenter=true&width=650&lines=Building+intelligent+systems.;Engineering+practical+AI+applications.;Exploring+computer+vision+and+robotics.;Turning+ideas+into+working+software." alt="Animated introduction"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=17&duration=3200&pause=1000&color=C9A96E&center=true&vCenter=true&width=650&lines=Building+intelligent+systems;Exploring+real-world+AI+applications;Shipping+practical+software+solutions" alt="Typing banner" />
 
   <br/><br/>
 
-  <a href="https://sam29w.github.io/My-Portfolio/">
+  <a href="https://github.com/Sam29W/My-Portfolio">
     <img src="https://img.shields.io/badge/PORTFOLIO-C9A96E?style=for-the-badge&logo=googlechrome&logoColor=111111" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/samith-shivakumar-98901430a">
@@ -44,7 +44,7 @@
 
 I'm a B.Tech Artificial Intelligence and Machine Learning student at Jain University, Bengaluru, interested in applying AI to real-world problems.
 
-My work and learning span computer vision, machine learning, backend systems, full-stack development and robotics. I enjoy exploring both the intelligence behind a system and the software required to make it useful.
+My work and learning span computer vision, machine learning, backend systems, full-stack development and robotics. I enjoy exploring both the intelligence behind a system and the software required to deliver it reliably.
 
 <table>
   <tr>
@@ -71,13 +71,13 @@ My work and learning span computer vision, machine learning, backend systems, fu
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sam29W&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C9A96E&icon_color=C9A96E&text_color=D6D6D6&include_all_commits=true&rank_icon=github" alt="GitHub statistics"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sam29W&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C9A96E&icon_color=C9A96E&text_color=D6D6D6&include_all_commits=true&custom_title=SAMITH%27S%20GITHUB%20STATS" alt="GitHub stats" />
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam29W&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=C9A96E&text_color=D6D6D6" alt="Most-used programming languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam29W&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=C9A96E&text_color=D6D6D6" alt="Top languages" />
 
   <br/><br/>
 
-  <img width="75%" src="https://streak-stats.demolab.com?user=Sam29W&theme=transparent&hide_border=true&ring=C9A96E&fire=C9A96E&currStreakLabel=C9A96E&sideLabels=D6D6D6&dates=999999" alt="GitHub contribution streak"/>
+  <img width="75%" src="https://streak-stats.demolab.com?user=Sam29W&theme=transparent&hide_border=true&ring=C9A96E&fire=C9A96E&currStreakLabel=C9A96E&sideLabels=D6D6D6&dates=999999" alt="GitHub streak stats" />
 
   <br/><br/>
 
@@ -96,17 +96,17 @@ My work and learning span computer vision, machine learning, backend systems, fu
 <div align="center">
 
   <a href="https://github.com/Sam29W/YOLO-Models">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sam29W&repo=YOLO-Models&hide_border=true&bg_color=0D1117&title_color=C9A96E&icon_color=C9A96E&text_color=D6D6D6" alt="YOLO Object Detection Pro"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sam29W&repo=YOLO-Models&hide_border=true&bg_color=0D1117&title_color=C9A96E&icon_color=C9A96E&text_color=D6D6D6" alt="YOLO Models project card" />
   </a>
   <a href="https://github.com/Sam29W/Sally5">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sam29W&repo=Sally5&hide_border=true&bg_color=0D1117&title_color=C9A96E&icon_color=C9A96E&text_color=D6D6D6" alt="Sally5 CheckoutKit"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sam29W&repo=Sally5&hide_border=true&bg_color=0D1117&title_color=C9A96E&icon_color=C9A96E&text_color=D6D6D6" alt="Sally5 project card" />
   </a>
 
   <a href="https://github.com/Sam29W/smartcart">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sam29W&repo=smartcart&hide_border=true&bg_color=0D1117&title_color=C9A96E&icon_color=C9A96E&text_color=D6D6D6" alt="Smartcart"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sam29W&repo=smartcart&hide_border=true&bg_color=0D1117&title_color=C9A96E&icon_color=C9A96E&text_color=D6D6D6" alt="Smartcart project card" />
   </a>
   <a href="https://github.com/Sam29W/Humanoid">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sam29W&repo=Humanoid&hide_border=true&bg_color=0D1117&title_color=C9A96E&icon_color=C9A96E&text_color=D6D6D6" alt="Humanoid robotics"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sam29W&repo=Humanoid&hide_border=true&bg_color=0D1117&title_color=C9A96E&icon_color=C9A96E&text_color=D6D6D6" alt="Humanoid robotics project card" />
   </a>
 
 </div>
@@ -195,7 +195,7 @@ A robotics-focused project exploring humanoid systems and intelligent robotic be
 
 <div align="center">
 
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sam29W&bg_color=0D1117&color=C9A96E&line=C9A96E&point=F2D99A&area=true&hide_border=true&custom_title=ENGINEERING%20ACTIVITY" alt="GitHub contribution activity graph"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sam29W&bg_color=0D1117&color=C9A96E&line=C9A96E&point=F2D99A&area=true&hide_border=true&custom_title=ENGINEERING%20ACTIVITY" alt="Engineering activity graph" />
 
 </div>
 
@@ -231,7 +231,7 @@ I'm open to **AI/ML internships, software development opportunities and meaningf
 
 <div align="center">
 
-  <a href="https://sam29w.github.io/My-Portfolio/">
+  <a href="https://github.com/Sam29W/My-Portfolio">
     <img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-C9A96E?style=for-the-badge&logo=googlechrome&logoColor=111111" alt="Explore portfolio"/>
   </a>
 
